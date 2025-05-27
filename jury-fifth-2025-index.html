@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>2025年7月5日 - 今日は何の日？</title>
+  <link rel="stylesheet" href="../style.css"> <style>
+    body {
+      background-color: #ffe4e1; /* とても薄いベビーピンク */
+    }
+    .pink-text {
+      color: #ff69b4; /* ショッキングピンク */
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>HIKARI・HIKARU 日々のブログ</h1>
+  </header>
+  <main>
+    <h2>2025年7月5日 - （ヒント）とても大切な日です！</h2>
+    <p>
+      今日はとある人のBirthdayです！<br>
+      ヒントその2はあの人です！小説『リアルオタ活✌』<br>
+                                          <br>
+      「咲田 大介」の誕生日です！                               <br>
+                                          <br>
+      設定上では、33歳になりました～❤️                               <br>
+                                          <br>
+      <span class="pink-text">～♪～ Happy birthday to you</span><br>
+      <span class="pink-text">　　　　 Happy birthday to you</span><br>
+      <span class="pink-text">　　　　　　Happy birthday dear 大くーん</span><br>
+      <span class="pink-text">　　　　　 Happy birthday to you ～♪～</span><br>
+                                          <br>
+      <span class="pink-text">　　　　 お誕生日おめでとーう♡</span><br>
+                                          <br>
+      以上！いつも通りのゆるっとしたブログでした～(笑)<br>
+                                          <br>
+                                          <br>
+
+    </p>
+  </main>
+  <footer>
+    <small>&copy; 1994 HIKARI HIKARU All rights reserved.</small>
+  </footer>
+</body>
+</html>
